@@ -16,4 +16,4 @@ langgraph
 langchain-google-community[places]
 
 
--e .# -e is for Packages which are installed locally on our env enviorment automatically
+-e .
